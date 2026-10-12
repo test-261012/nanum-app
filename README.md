@@ -1,1 +1,1 @@
-# nanum-app
+# nanum-app 프로젝트입니다.
